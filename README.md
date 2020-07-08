@@ -1,6 +1,6 @@
 # docker-compose traefik
 
-Development stack with [traefik](https://docs.traefik.io/)
+Docker-compose stack with [traefik](https://docs.traefik.io/)
 
 > NB: 
 > 
