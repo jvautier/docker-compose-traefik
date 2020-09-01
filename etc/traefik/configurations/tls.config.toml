@@ -1,8 +1,4 @@
 
-[http.middlewares]
-  [http.middlewares.redirect.redirectscheme]
-    scheme = "https"
-
 [tls]
   [[tls.certificates]]
     certFile = "/etc/certs/local-cert.pem"
