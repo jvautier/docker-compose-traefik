@@ -1,0 +1,9 @@
+---
+fullname: jvautier/docker-compose-traefik
+description: Docker-compose development stack with traefik.
+tags:
+  - development
+  - docker
+  - docker-compose
+  - traefik
+github: {}
