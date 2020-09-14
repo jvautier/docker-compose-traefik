@@ -1,4 +1,5 @@
 ---
+# See https://github.com/jvautier/project-cli
 fullname: jvautier/docker-compose-traefik
 description: Docker-compose development stack with traefik.
 tags:
